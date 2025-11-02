@@ -29,7 +29,7 @@ To build a **Skill Academy in West Africa** that teaches practical, income-ready
 |--------|-------------|
 | **Young Skill Academy** | Practical skills training program & digital learning environment. |
 | **Mini Mind Power** | Educational YouTube learning series for kids (slides + voiceovers + fun storytelling). |
-| **DFRENT** | A premium streetwear & identity-expression T-shirt brand. |
+| **ADRST** | A premium streetwear & identity-expression T-shirt brand. |
 | **Robin’s Touch Senior Care** | Website & growth framework for senior home + caregiver services. |
 | **Solar Ear-Tag GPS Tracker** | Hardware + software concept to protect livestock in rural West Africa. |
 

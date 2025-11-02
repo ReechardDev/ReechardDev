@@ -43,11 +43,11 @@ To build a **Skill Academy in West Africa** that teaches practical, income-ready
 ---
 
 ## 📚 Education & Certifications
-- **ALX Foundations** — Software Engineering (current)
+- **ALX Foundations** - Software Engineering (current)
 - **BSc in Information Science & Telecommunication**
-- **Diploma in Digital Marketing** — Udemy (2024)
-- **TEFL Certificate** — CPD Certify
-- **Certificate in Movie Directing** — Royal Art Academy (2017)
+- **Diploma in Digital Marketing** - Udemy (2024)
+- **TEFL Certificate** - CPD Certify
+- **Certificate in Movie Directing** - Royal Art Academy (2017)
 
 ---
 
@@ -76,5 +76,5 @@ I’m open to:
 ---
 
 <p align="center">
-  Made with ❤️ — Let’s build something useful.
+Let’s build something useful together.
 </p>
